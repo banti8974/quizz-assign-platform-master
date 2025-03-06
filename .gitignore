@@ -1,0 +1,31 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+
+# Test directories
+coverage/
+.nyc_output/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# IDE files
+*.idea/
+.vscode/
+
+# Miscellaneous files
+.env               
+*.env.*            
+*.DS_Store         
+Thumbs.db          
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# JSON files (if you don't want to track them)
+*.json             
