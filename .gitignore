@@ -26,6 +26,3 @@ Thumbs.db
 npm-debug.log
 yarn-error.log
 yarn-debug.log
-
-# JSON files (if you don't want to track them)
-*.json             
